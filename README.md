@@ -4,6 +4,10 @@
 [![Kali Supported](https://img.shields.io/badge/Kali-Supported-blue?style=flat-square&logo=kali-linux)](#)
 [![Parrot Supported](https://img.shields.io/badge/Parrot-Supported-blue?style=flat-square&logo=linux)](#)
 [![Termux Supported](https://img.shields.io/badge/Termux-Supported-blue?style=flat-square&logo=android)](#)
+[![HTML5](https://img.shields.io/badge/-white?style=social&logo=html5)](#)
+[![PHP](https://img.shields.io/badge/-white?style=social&logo=php)](#)
+[![Bash](https://img.shields.io/badge/-white?style=social&logo=gnubash)](#)
+[![Ngrok](https://img.shields.io/badge/-white?style=social&logo=ngrok)](#)
 [![By](https://img.shields.io/badge/By-m4lal0-green?style=flat-square&logo=github)](#)
 
 ![CamShots](./images/banner.png)
